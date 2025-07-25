@@ -1,6 +1,8 @@
 # Hotel-Room-Reservation
 CLI Application built from C
 
+This is my first ever project in my coding journey!
+
 Contributors:
   Dan Emanuel Pispis
   John Ralph Bone
